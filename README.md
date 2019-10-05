@@ -1,2 +1,11 @@
 # chatroom-desktop-application
-A simple chatroom using java socket programming in a multithreaded client/server architecture
+Uma sala de bate-papo utilizando programação de sockets em Java em uma arquitetura multithreaded client/server
+
+## Client
+### Login
+<img src="images/Login.png">
+### Chat
+<img src="images/Client.png">
+
+## Server
+<img src="images/Server.png">
